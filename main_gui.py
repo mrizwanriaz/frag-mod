@@ -5,7 +5,7 @@ from tkinter import *
 from tkinter import filedialog as tkFileDialog
 from PIL import Image, ImageTk
 import os
-#import script
+import script
 
 class ProteinModellerApp(Frame):
   
